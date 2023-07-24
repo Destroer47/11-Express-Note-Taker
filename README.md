@@ -32,16 +32,16 @@ HTML, CSS, JavaScript, Node.js, Express.js
 
 Example Screenshots are below
 
-![Home Page](./assets/Home.jpg)
+![Home Page](assets/Home.jpg)
 > **Note**: Shows the home page
 
-![Note Page](./assets/Notes.jpg)
+![Note Page](assets/Notes.jpg)
 > **Note**: Shows the note page
 
-![Adding a New Note](./assets/NewNote.jpg)
+![Adding a New Note](assets/NewNote.jpg)
 > **Note**: By clicking on the plus sign in the top right, and filling in the text fields for the note, and then clicking the save button in the top right, you can add a new note
 
-![New Note Added](./assets/NewNoteAdded.jpg)
+![New Note Added](assets/NewNoteAdded.jpg)
 > **Note**: Shows the note being added to the notes list on the left hand sidebar
 
 ## Credits
